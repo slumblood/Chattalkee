@@ -5,7 +5,7 @@
 PORT=3001
 
 # Frontend URL (Set this to your Bolt app URL after deployment)
-FRONTEND_URL=https://Chattalkee
+FRONTEND_URL=https://slumblood/Chattalkee/bolt.new
 
 # Node Environment
 NODE_ENV=production
