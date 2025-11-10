@@ -1,0 +1,9 @@
+walkie-talkie-bolt/
+├── package.json
+├── server.js
+├── .env.tpl
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+└── README.md
